@@ -6,7 +6,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Raka Prasetya Pratama (ItzKaguya)',
+  name: 'Arya (ItzKaguya)',
   role: 'Android ROM Builder',
   description:
     'Idk, this just a portfolio sample I got in GitHub',
